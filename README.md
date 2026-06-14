@@ -1,8 +1,6 @@
 # 💪 GYM PRO - Gym Management Website
 
-![GYM PRO](https://img.shields.io/badge/Project-GYM%20PRO-blue)
-![Python](https://img.shields.io/badge/Python-Django-green)
-![Frontend](https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-orange)
+
 
 ## 📌 About Project
 
